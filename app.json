@@ -25,7 +25,7 @@
     },
     "BOT_TOKEN": {
       "description": "Bot token of Bot, get from @Botfather",
-      "required": true
+      "required": false
     },
     "SESSION_STRING": {
       "description": "Session string, read the README to learn how to export it with Pyrogram",
